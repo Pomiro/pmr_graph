@@ -1,0 +1,2 @@
+[Obsidian+Github вместо Notion: синхронизация, бекап и версионность (3-в-1)](https://habr.com/ru/articles/843288/)
+О том, как сделать прозрачную синхронизацию заметок [[Obsidian]] между устройствами (Desktop, Android, iOS) через [[GitHub]] 
